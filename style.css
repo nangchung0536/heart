@@ -20,7 +20,7 @@ body {
 	margin: auto;
 	height: 750px;
 	width: 750px;
-	animation: animate 155s infinite;
+	animation: animate 1.5s infinite;
 }
 
 #pinkboard:before, #pinkboard:after {
